@@ -5,7 +5,7 @@ A test repo to try to understand Variant Attributes matching.
 You will need an Android SDK installed:
 
 ```
-echo 'sdk.dir=/Path/To/Your/Android/sdk' > local.properties
+> echo 'sdk dir=/Path/To/Your/Android/sdk' > local.properties
 
 > ./gradlew assembleDebug
 > Task :generateDebugRFile FAILED
